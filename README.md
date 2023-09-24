@@ -1,2 +1,2 @@
 # Coding-Samurai
-Task 1 : Data visualization on airbnb data
+Task 1 : Exploratory Data Analysis on airbnb data
